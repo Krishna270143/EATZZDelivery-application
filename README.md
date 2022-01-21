@@ -1,1 +1,1 @@
-# EATZZDelivery-application
+# EATZZOrdering-application
